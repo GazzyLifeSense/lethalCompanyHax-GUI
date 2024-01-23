@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\LETHAL HACK\LethalCompanyHax\obj\Debug\netstandard2.1\LethalCompanyHax.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LETHAL HACK\LethalCompanyHax\obj\Debug\netstandard2.1\LethalCompanyHax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LETHAL HACK\LethalCompanyHax\obj\Debug\netstandard2.1\LethalCompanyHax.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LETHAL HACK\LethalCompanyHax\obj\Debug\netstandard2.1\LethalCompanyHax.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LETHAL HACK\LethalCompanyHax\obj\Debug\netstandard2.1\LethalCompanyHax.csproj.CoreCompileInputs.cache

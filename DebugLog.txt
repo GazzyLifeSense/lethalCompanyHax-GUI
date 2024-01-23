@@ -1,0 +1,168 @@
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: c:\software\huorong\sysdiag\bin\wsctrlsvc.exe c:\software\huorong\sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: c:\software\huorong\sysdiag\bin\wsctrlsvc.exe c:\software\huorong\sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+
+[MainWindowViewModel] - ExecuteRefresh Entered
+[MainWindowViewModel] - Setting Process Access Rights:
+	PROCESS_QUERY_INFORMATION
+	PROCESS_VM_READ
+[MainWindowViewModel] - Checking Processes for Mono
+	WmiPrvSE.exe
+	svchost.exe
+    Error Getting User Process: svchost - 拒绝访问。
+	svchost.exe
+	conhost.exe
+	ChsIME.exe
+	svchost.exe
+	vmware-authd.exe
+	svchost.exe
+	browser.exe
+	ServiceHub.Host.dotnet.x64.exe
+	svchost.exe
+	browser.exe
+	browser.exe
+	svchost.exe
+	steamwebhelper.exe
+	browser.exe
+	svchost.exe
+	browser.exe
+	Clash for Windows.exe
+	dwm.exe
+	msedge.exe
+	svchost.exe
+    Error Getting User Process: wsctrlsvc - 拒绝访问。
+	OfficeClickToRun.exe
+	RtkAudUService64.exe
+	browser.exe
+	LenovoUtilityService.exe
+	ApplicationFrameHost.exe
+	SDXHelper.exe
+	ServiceHub.IntellicodeModelService.exe
+	svchost.exe
+	browser.exe
+    Error Getting User Process: smss - 拒绝访问。
+	atiesrxx.exe
+	svchost.exe
+	SogouImeBroker.exe
+	svchost.exe
+	ServiceHub.IdentityHost.exe
+	amdfendrsr.exe
+	sihost.exe
+	browser.exe
+	Clash for Windows.exe
+	svchost.exe
+	svchost.exe
+	ServiceHub.VSDetouredHost.exe
+	cygrunsrv.exe
+	browser.exe
+	steamwebhelper.exe
+	svchost.exe
+	svchost.exe
+	MoUsoCoreWorker.exe
+	SearchHost.exe
+	conhost.exe
+	SearchFilterHost.exe
+	steam.exe
+	msedgewebview2.exe
+	com.docker.service.exe
+	NVDisplay.Container.exe
+	devenv.exe
+	SystemSettings.exe
+	browser.exe
+	explorer.exe
+	browser.exe
+	svchost.exe
+	svchost.exe
+	Locator.exe
+	svchost.exe
+	browser.exe
+	svchost.exe
+	conhost.exe
+	mongod.exe
+	lghub_system_tray.exe
+	nvcontainer.exe
+	SystemSettingsBroker.exe
+	browser.exe
+	svchost.exe
+	svchost.exe
+	msedgewebview2.exe
+	svchost.exe
+	browser.exe
+	WUDFHost.exe
+    Error Getting User Process: browser - 进程(113948)已退出，因此无法处理请求。
+	fontdrvhost.exe
+	conhost.exe
+	svchost.exe
+	svchost.exe
+	WidgetService.exe
+    Error Getting User Process: svchost - 拒绝访问。
+	browser.exe
+	LenovoInternetSoftwareFramework.exe
+	gamingservices.exe
+	browser.exe
+	iNodeMon.exe
+	svchost.exe
+	dllhost.exe
+	RtkAudUService64.exe
+	svchost.exe
+	QQProtect.exe
+	browser.exe
+	StartMenuExperienceHost.exe
+	svchost.exe
+	TranslucentTB.exe
+	svchost.exe
+	steamwebhelper.exe
+	browser.exe
+	svchost.exe
+	svchost.exe
+	FMService64.exe
+	svchost.exe
+	unsecapp.exe
+	TextInputHost.exe
+	gamingservicesnet.exe
+    Error Getting User Process: browser - 进程(140280)已退出，因此无法处理请求。
+	RuntimeBroker.exe
+    Error Getting User Process: Memory Compression - 拒绝访问。
+	fontdrvhost.exe
+	lghub_updater.exe
+	VBCSCompiler.exe
+	conhost.exe
+	browser.exe
+	HTTPDebuggerSvc.exe
+    Error Getting User Process: svchost - 拒绝访问。
+	msedgewebview2.exe
+	nvcontainer.exe
+	RuntimeBroker.exe
+	conhost.exe
+	LISFService.exe
+	dllhost.exe
+	browser.exe
+	DataExchangeHost.exe
+	svchost.exe
+	browser.exe
+	SearchIndexer.exe
+	Lethal Company.exe
+		Mono found in process: Lethal Company.exe
+
+FINISHED SCANNING PROCESSES...
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: c:\software\huorong\sysdiag\bin\wsctrlsvc.exe c:\software\huorong\sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe C:\Software\Huorong\Sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: c:\software\huorong\sysdiag\bin\wsctrlsvc.exe c:\software\huorong\sysdiag\bin\wsctrlsvc.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
